@@ -1,0 +1,169 @@
+
+{
+  "status": 0,
+  "message": "Parking Locations",
+  "parking_locations": [
+    {
+      "sub_lots": [
+        {
+          "capacity": 1000,
+          "parking_charges": {
+            "hours": 2,
+            "cost": 30
+          },
+          "space_left": 1000,
+          "type": "car",
+          "id": 5
+        }
+      ],
+      "address": "city centre mall m g road",
+      "id": 5,
+      "open_time": "10:00:00",
+      "city": "Gurgaon",
+      "name": "City Centre Mall M G Road",
+      "geo_location": {
+        "latitude": 28.479233398,
+        "longitude": 77.08119493
+      },
+      "landmark": "m g road metro station"
+    },
+    {
+      "sub_lots": [
+        {
+          "capacity": 200,
+          "parking_charges": {
+            "hours": 24,
+            "cost": 0
+          },
+          "space_left": 200,
+          "type": "car",
+          "id": 16
+        }
+      ],
+      "address": "courtyard  marriott  hotel",
+      "id": 16,
+      "city": "Gurgaon",
+      "name": "Courtyard  Marriott  Hotel",
+      "geo_location": {
+        "latitude": 28.460314337,
+        "longitude": 77.080482133
+      },
+      "landmark": "police station sushant lok"
+    },
+    {
+      "sub_lots": [
+        {
+          "capacity": 500,
+          "parking_charges": {
+            "hours": 24,
+            "cost": 20
+          },
+          "space_left": 500,
+          "type": "car",
+          "id": 46
+        }
+      ],
+      "address": "dt mega mall",
+      "id": 46,
+      "city": "Gurgaon",
+      "name": "Dt Mega Mall",
+      "geo_location": {
+        "latitude": 28.4758847,
+        "longitude": 77.0931424
+      },
+      "landmark": "sikander pur"
+    },
+    {
+      "sub_lots": [
+        {
+          "capacity": 1000,
+          "parking_charges": {
+            "hours": 2,
+            "cost": 30
+          },
+          "space_left": 1000,
+          "type": "car",
+          "id": 1
+        }
+      ],
+      "address": "mgf metropolis mall m g road",
+      "id": 1,
+      "city": "Gurgaon",
+      "name": "Mgf Metropolis Mall M G Road",
+      "geo_location": {
+        "latitude": 28.479467099,
+        "longitude": 77.082360685
+      },
+      "landmark": "m g road metro station"
+    },
+    {
+      "sub_lots": [
+        {
+          "capacity": 1000,
+          "parking_charges": {
+            "hours": 2,
+            "cost": 40
+          },
+          "space_left": 1000,
+          "type": "car",
+          "id": 18
+        }
+      ],
+      "address": "sahara mall m g road",
+      "id": 18,
+      "city": "Gurgaon",
+      "name": "Sahara Mall M G Road",
+      "geo_location": {
+        "latitude": 28.480157587,
+        "longitude": 77.087272145
+      },
+      "landmark": "sikanderpur metro station"
+    },
+    {
+      "sub_lots": [
+        {
+          "capacity": 150,
+          "parking_charges": {
+            "hours": 24,
+            "cost": 0
+          },
+          "space_left": 150,
+          "type": "car",
+          "id": 2
+        }
+      ],
+      "address": "vatika city point m g road",
+      "id": 2,
+      "city": "Gurgaon",
+      "name": "Vatika City Point M G Road",
+      "geo_location": {
+        "latitude": 28.480222422,
+        "longitude": 77.082621194
+      },
+      "landmark": "m g road metro station"
+    },
+    {
+      "sub_lots": [
+        {
+          "capacity": 400,
+          "parking_charges": {
+            "hours": 8,
+            "cost": 60
+          },
+          "space_left": 400,
+          "type": "car",
+          "id": 10
+        }
+      ],
+      "address": "vipul agora mall m g road",
+      "id": 10,
+      "city": "Gurgaon",
+      "name": "Vipul Agora Mall M G Road",
+      "geo_location": {
+        "latitude": 28.479915342,
+        "longitude": 77.085957192
+      },
+      "landmark": "sahara mall"
+    }
+  ]
+}
